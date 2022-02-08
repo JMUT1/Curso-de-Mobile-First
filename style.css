@@ -262,7 +262,7 @@ main {
   width: 90%;
   min-width: 288px;
   min-height: auto;
-  margin: 15 auto 0;
+  margin: 15px auto 0;
   text-align: center;
 }
 .product-detail--title h2 {
@@ -279,6 +279,7 @@ main {
   line-height: 1.8rem;
   color: #808080;
 }
+
 .product-detail-card {
   width: 90%;
   min-width: 288px;
